@@ -1,2 +1,2 @@
-# common-components
-just some easy components
+# simple_html_websites
+these websites are nothing just exhibition, didn't have any special ability, but looks nice...
